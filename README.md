@@ -4,7 +4,7 @@ A 3D printed desktop stand for Ikeas Rolfstorp lamp. I created two versions, a J
 
 <table>
 	<tbody>
-		<tr collspan="2">
+		<tr colspan="2">
 			<td>
 				<img src="a.jpeg"/>
 			</td>
